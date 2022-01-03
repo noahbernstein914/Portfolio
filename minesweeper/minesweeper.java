@@ -1,7 +1,7 @@
 //READ BEFORE RUNNING
 //This program controls movement of mouse 
-//When mouse gets stuck use CTRL+ALT+DELETE to open task manager
-//This program requires you to match up the window  
+//When mouse gets stuck use CTRL+ALT+DELETE to open task manager and shut down the JVM
+//This program requires you to match up the window with https://www.google.com/search?q=minesweeper+&rlz=1C1RXQR_enUS935US935&sxsrf=AOaemvJhVDGaMIafmoIyVJNLajTCbfItCg%3A1641177602412&ei=AmLSYezQGLWaptQP3t63wA4&ved=0ahUKEwjs2YSAx5T1AhU1jYkEHV7vDegQ4dUDCA4&uact=5&oq=minesweeper+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyCggjEM0DECcQiwMyCggAELEDEEMQiwMyCwguEIAEELEDEIsDMgcIABBDEIsDMggIABCABBCLAzILCAAQgAQQsQMQiwMyCAgAEIAEEIsDMhAIABCABBCHAhCxAxAUEIsDSgQIQRgASgQIRhgAUABYAGCdB2gAcAJ4AIABTIgBTJIBATGYAQCgAQG4AQHAAQE&sclient=gws-wiz 
 
 
 import java.util.Scanner;
