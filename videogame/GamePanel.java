@@ -2,19 +2,6 @@
 /**
  * Author: Noah Bernstein
  * Date: 5/12/2021
- */
-
-/*TO DO LIST
-
-Noah:
-don't allow mobs to shoot if difference in y
-
-
-
-
-
-
-
 
 */
 
@@ -500,8 +487,7 @@ public class GamePanel extends JPanel implements ActionListener, KeyListener, Mo
         double ex1, ey1, ex2, ey2;
         double bulletx;// x of the bullet
         double bullety;// y of the bullet
-        double shotFixer;// equation that my friend Sander helped me make - this value is multiplied by
-                                       // the slope to prevent different speeds at different angles
+        double shotFixer;// this value is multiplied by the slope to prevent different speeds at different angles
         int counter = 0;// timer for the bullet to explode
         boolean exploded = false;// boolean determining whether the bullet has exploded
         int size = 50;// size of the bullet
