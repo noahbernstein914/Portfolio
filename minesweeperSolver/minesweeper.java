@@ -1,7 +1,7 @@
 //READ BEFORE RUNNING
 //This program controls movement of mouse 
 //When mouse gets stuck use CTRL+ALT+DELETE to open task manager
-//This program requires you to match up the window  
+//This program requires you to match up the minesweeper with the windows
 
 
 import java.util.Scanner;
